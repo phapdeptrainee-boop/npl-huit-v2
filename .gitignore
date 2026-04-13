@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.log
+vfnd_experiment/data/vfnd-repo/
+vfnd_experiment/output/phobert_baseline.pt

@@ -1,0 +1,5 @@
+model,test_set,acc,f1
+Baseline,original,0.8529 ± 0.0186,0.8465 ± 0.0182
+Baseline,neutral,0.7588 ± 0.0432,0.7254 ± 0.0565
+AdSent,original,0.8118 ± 0.0144,0.8056 ± 0.0150
+AdSent,neutral,0.8118 ± 0.0144,0.8056 ± 0.0150

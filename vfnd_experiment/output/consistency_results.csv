@@ -1,0 +1,5 @@
+variant,base_f1,base_ff→r,adsent_f1,adsent_ff→r
+Neutral (orig),0.69,5,0.8179,0
+Pos→Neu,0.6458,6,0.7896,0
+Neg→Neu,0.5983,7,0.8179,0
+Neu→Neu,0.4902,9,0.8179,0
